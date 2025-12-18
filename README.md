@@ -12,7 +12,7 @@ The data is composed of 2 files:
 
 This repository contains the following files:
 
-- The data files (XPDT files)
+- The data files (XPT files)
 - The analysis notebook (task.ipynb)
 - The resulted csv file
 - The resulted graph image
